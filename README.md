@@ -13,7 +13,7 @@ protects against and what it doesn't.
 https://github.com/noahvz7/boudyguard
 
 ## confessor
-A research project about how DNS lookups can leak what you're doing even when
+A side project about how DNS lookups can leak what you're doing even when
 everything's over HTTPS, and how you'd detect the ARP spoofing that makes it
 possible. I only test it on my own network. The detector and the writeup are the
 part I actually care about. It's early, and the README says so.
