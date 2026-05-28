@@ -21,8 +21,6 @@ part I actually care about. It's early, and the README says so.
 https://github.com/noahvz7/confessor
 
 ## Where I'm at
-I like building defensive tools, and learning how attacks work so I can defend
-against them. Still working out exactly where I fit, probably around detection and
-secure engineering.
-
-Reach me: vanzantenoah@gmail.com
+I'm most drawn to defensive work, and learning how attacks work so I can defend 
+against them. Still working out exactly where I fit, probably around detection 
+and secure engineering.
